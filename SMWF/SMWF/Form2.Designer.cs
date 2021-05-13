@@ -120,7 +120,7 @@
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button1);
             this.Name = "Form2";
-            this.Text = "Form2";
+            this.Text = "Свой выбор";
             this.ResumeLayout(false);
             this.PerformLayout();
 
